@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Seth-Pharès ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
+
+Seasoned Mobile Engineer ⚡️ Building DeFi & Web3 tooling for the Flutter/Dart ecosystem. 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/sethgnavo)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sethgnavo&show_icons=true)  
 
 <!--
 **sethgnavo/sethgnavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
