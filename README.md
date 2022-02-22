@@ -4,7 +4,8 @@ Mobile Engineer. ⚡️
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/sethgnavo)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sethgnavo&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethgnavo)](https://github.com/sethgnavo/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sethgnavo&show_icons=true)
 
 <!--
 **sethgnavo/sethgnavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
