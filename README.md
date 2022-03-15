@@ -2,10 +2,10 @@
 
 Mobile Engineer. ⚡️ 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/sethgnavo)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='github' height='18'>](https://twitter.com/sethgnavo)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sethgnavo&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethgnavo&hide=makefile,batchfile,shell,powershell&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/sethgnavo/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/sethgnavo/github-stats/blob/master/generated/languages.svg)
 
 <!--
 **sethgnavo/sethgnavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
