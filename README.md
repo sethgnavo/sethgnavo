@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Seth-Pharès ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
 Mobile Engineer. ⚡️ 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='github' height='18'>](https://twitter.com/sethgnavo)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='github' height='18'>](https://twitter.com/sethgnavo)  
+Investigating Web3 🔜
 
 ![](https://github.com/sethgnavo/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/sethgnavo/github-stats/blob/master/generated/languages.svg)
